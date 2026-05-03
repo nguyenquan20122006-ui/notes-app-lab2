@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+firebase-admin
+PyreBase4
+streamlit
+requests
+pydantic[email]
